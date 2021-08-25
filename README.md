@@ -1,2 +1,2 @@
 # hello-world
-first project
+Hello eeryone, this repository was created just for demonstration purposes. 
